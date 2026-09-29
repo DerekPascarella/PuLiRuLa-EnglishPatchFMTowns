@@ -40,7 +40,7 @@ To apply the patch, follow the steps below.
 - **Playtesting**
   - Josh (hasnopants)
 - **Special Thanks**
-  - KoolFillter (for his work on the SEGA Saturn "Arcade Gears Vol. 1: Pu-Li-Ru-La" English translation patch, which both inspired and helped the FM Towns patch become a reality)
+  - KoolFiller (for his work on the SEGA Saturn "Arcade Gears Vol. 1: Pu-Li-Ru-La" English translation patch, which both inspired and helped the FM Towns patch become a reality)
 
 ## Release Changelog
 
