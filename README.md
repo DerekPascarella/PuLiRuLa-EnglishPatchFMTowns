@@ -77,7 +77,9 @@ To apply the patch, follow the steps below.
 
 ## How to Play
 
-<img align="right" src="https://github.com/DerekPascarella/PuLiRuLa-EnglishPatchFMTowns/blob/main/screenshot2.png?raw=true" width="250">- **CD-R**
+<img align="right" src="https://github.com/DerekPascarella/PuLiRuLa-EnglishPatchFMTowns/blob/main/screenshot2.png?raw=true" width="250">
+
+- **CD-R**
 
   The English-patched version of this game can be burned to CD-R and played on FM Towns Marty or any FM Towns computer.
 
