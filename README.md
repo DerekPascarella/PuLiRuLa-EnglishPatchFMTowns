@@ -49,7 +49,7 @@ To apply the patch, follow the steps below.
 
 ## What's Changed
 
-<img align="right" src="https://github.com/DerekPascarella/PuLiRuLa-EnglishPatchFMTowns/blob/main/screenshot1.png?raw=true" width="156">- All story text has been translated into English, including the intro sequence and all in-game dialogue.
+<img align="right" src="https://github.com/DerekPascarella/PuLiRuLa-EnglishPatchFMTowns/blob/main/screenshot1.png?raw=true" width="250">- All story text has been translated into English, including the intro sequence and all in-game dialogue.
   - The script is based on [DaVince21's](https://docs.google.com/document/d/1FELj57dNtKLiWZ7nelXNtjIiWfKBS4pbEM6tsPDj-3c) complete retranslation of the game, not the error-riddled official translation from the arcade release. The text has been edited and, in some cases, re-translated by Walnut. A handful of DaVince21's lines have been trimmed slightly to fit within the FM Towns version's fixed-size text boxes and intro pages.
   - In the event it can be restored some day, unused dialogue left over from the arcade original, still present in the FM Towns version's data, has also been translated by Walnut.
   - Wherever the game's code allowed it, available text space has been expanded so that longer lines are shown in full across additional text boxes.
@@ -77,7 +77,7 @@ To apply the patch, follow the steps below.
 
 ## How to Play
 
-<img align="right" src="https://github.com/DerekPascarella/PuLiRuLa-EnglishPatchFMTowns/blob/main/screenshot2.png?raw=true" width="156">- **CD-R**
+<img align="right" src="https://github.com/DerekPascarella/PuLiRuLa-EnglishPatchFMTowns/blob/main/screenshot2.png?raw=true" width="250">- **CD-R**
 
   The English-patched version of this game can be burned to CD-R and played on FM Towns Marty or any FM Towns computer.
 
