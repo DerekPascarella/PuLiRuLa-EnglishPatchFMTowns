@@ -65,7 +65,6 @@ To apply the patch, follow the steps below.
   - The large parallax layer at the start of Stage 6 is fully present instead of being cut.
   - The rare screen-clearing magic attacks "Rapman" and "Mr. MIKATA" become available again.
   - The four mid-stage CD load pauses disappear, giving seamless play.
-  - Note that this extended mode runs very slowly when the Marty has 4 MB of total RAM, but runs smoothly with 3 MB.
 
 ## About the Game
 
