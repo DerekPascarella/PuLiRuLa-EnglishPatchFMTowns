@@ -1,0 +1,5 @@
+-Requires Strawberry Perl.
+-Place the FM Towns Redump CUE and all 28 BINs in "input\fmt_redump".
+-Place the Track 01 BIN of the English-patched Saturn version (T-En v1.0) in "input\saturn_patched".
+-Run the batch files in order, from 0 to 6.
+-Disc images and the patch kit are written to "output".

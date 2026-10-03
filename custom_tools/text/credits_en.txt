@@ -1,0 +1,142 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^ Congratulations!!
+
+
+
+_-- STAFF --
+
+
+_PRODUCER
+
+\         Hidehiro Fujiwara
+
+_CHARACTER
+
+\         KAT
+
+\         ZAWAKICHI
+
+\         CARRY AN HIRRCKY
+
+\         UCKY KIMURA TARO
+
+\         ANADORIGATASHI JIRO
+
+\         WALLSIDE MAGICIAN ABE
+
+\         E.SKELETON YASU
+
+_SOUND
+
+\         TEAM ZUNTATA
+
+\            ( KARU )
+
+\            ( YACK )
+
+_SOFTWARE
+
+\         IROMUST TMR
+
+\         Exit KARBY
+
+\         Magician KAZ
+
+^GAME DESIGN
+
+\         KAT
+
+\         ZAWAKICHI
+
+^HARDWARE
+
+\         Yasuhiro Shibuya
+
+^DESIGN
+
+\         Mt.MIHARA B.E.umakboh
+
+^SOFTWARE SUPPORT
+
+\         E.Takashi Kitabayashi
+
+\         YMOT Yagi
+
+^SPECIAL THANKS
+
+^(Character design)
+
+\         ZAK MUNN
+
+\         Masami Kikuchi
+
+\         MUTTER TOMY
+
+\         E.BANG DE BOO.M
+
+^(Model)
+
+\         E.SATOH GO 2
+
+\         WEP
+
+\         Y.S.SAYURI.K.U
+
+\         Mt.MIHARA B.E.umakboh
+
+\         Masami Kikuchi
+
+^FM TOWNS CONVERSION
+
+\         Takahiro Kuribayashi
+
+_SPECIAL THANKS
+
+\         TAITO STAFF
+
+\         ALL VING STAFF
+
+_EXECUTIVE PRODUCER
+
+\         Ryozo Sugawara
+
+
+_-- ENGLISH TRANSLATION --
+
+^HACKING AND PROGRAMMING
+
+\         Derek Pascarella
+\            ( ateam )
+
+^TRANSLATION
+
+\         DaVince21
+
+\         Walnut
+
+^PLAYTESTING
+
+\         Josh
+\            ( hasnopants )
+
+
+_Thank you for playing!
+
+
+\Presented by
+
+\TAITO CORPORATION
+\VING  CORPORATION

@@ -1,0 +1,542 @@
+#000 dialogue 91E10
+
+  What are you doing?!
+
+
+#001 dialogue 91E34
+Kekekeke... Move it!
+You're in my way!!
+
+
+#002 dialogue 91E58
+Ughh, I'm done for...
+the Key of Time will
+definitely be stolen...
+
+#003 dialogue 91E7C
+
+  What are you doing!!
+
+
+#004 dialogue 91EA0
+
+  What are you doing!!
+
+
+#005 dialogue 91EC4
+
+I'll be taking this key!
+
+
+#006 dialogue 91EE8
+
+   Oh no you don't!!
+
+
+#007 dialogue 91F0C
+
+   Oh no you don't!!
+
+
+#008 dialogue 91F30
+
+  Hey! Get back here!!
+
+
+#009 dialogue 91F54
+
+Oh no! Time has stopped!
+
+
+#010 dialogue 91F78
+Then by now, the
+town...!!
+
+
+#011 dialogue 91F9C
+Gotta hurry and get the
+key back from that guy!
+
+
+#012 dialogue 91FC0
+I knew it... Everyone's
+been frozen.
+
+
+#013 dialogue 91FE4
+If I didn't have my
+magic rod, I'm sure the
+same thing would have
++
+happened to me.
+
+
+
+#014 dialogue 92008
+If we didn't have our
+magic rods, I'm sure the
+same thing would have
++
+happened to us.
+
+
+
+#015 dialogue 9202C
+
+Well then, let's hurry!
+
+
+#016 dialogue 92050
+The next town should be
+just over this mountain.
+
+
+#017 dialogue 92074
+Man, I've never seen a
+mountain like this. It's
+all made of crystal!
+
+#018 dialogue 92098
+This is where animals
+come to die, unseen by
+anyone.
+
+#019 dialogue 920BC
+Even this sacred place
+has been ravaged.
+
+
+#020 dialogue 920E0
+So you're the boss,
+huh?!
+
+
+#021 dialogue 92104
+
+   You're the boss?!
+
+
+#022 dialogue 92128
+Do you really think you
+can defeat us?
+
+
+#023 dialogue 9214C
+So the boss here was a
+transformed animal, too.
+
+
+#024 dialogue 92170
+So the boss here was a
+transformed animal, too.
+
+
+#025 dialogue 92194
+Are you going to the
+town up ahead?
+
+
+#026 dialogue 921B8
+
+       Yeah, why?
+
+
+#027 dialogue 921DC
+Things got so bad in
+that town that no one
+could live there, so all
++
+the townsfolk fled.
+
+
+
+#028 dialogue 92200
+I see... Got it. Thank
+you.
+
+
+#029 dialogue 92224
+I see... Got it. Thank
+you.
+
+
+#030 dialogue 92248
+
+What the heck is this?!
+
+
+#031 dialogue 9226C
+
+  What happened here?!
+
+
+#032 dialogue 92290
+This town has fallen
+under the control of a
+megalomaniac's dreams.
++
+Everywhere you look,
+it's like this...
+
+
+#033 dialogue 922B4
+The one behind all this
+is sleeping at the far
+end of town. Could you
++
+please wake him up and
+put the town back to
+normal?
+
+#034 dialogue 922D8
+
+ Hey! Waaait a minute!!
+
+
+#035 dialogue 922FC
+Huh?! What have I been
+doing all this time?
+
+
+#036 dialogue 92320
+I couldn't find that
+puppet in this town,
+either. Where'd he go?
++
+I'd better check the
+next town.
+
+
+#037 dialogue 92344
+If you're headed to the
+next town, crossing the
+desert is quicker.
+
+#038 dialogue 92368
+Thank you. Don't have
+any more weird dreams,
+okay?
+
+#039 dialogue 9238C
+Ahh, it's so hot. I'm
+thirsty. Is there any
+water around?
+
+#040 dialogue 923B0
+We're struggling too,
+since it won't rain.
+
+
+#041 dialogue 923D4
+A guy named No-No has
+sucked up all of the
+rain.
+
+#042 dialogue 923F8
+
+Yippee, it's raining!!!
+
+
+#043 dialogue 9241C
+But... now it might be
+raining too much... I
+wonder if everything
++
+will be okay...
+
+
+
+#044 dialogue 92440
+Huh?! There's no rain at
+all past this point.
+
+
+#045 dialogue 92464
+Time's stopped in this
+town, so the water can't
+flow in.
+
+#046 dialogue 92488
+Whoa! The ground's all
+dried up and cracked!
+
+
+#047 dialogue 924AC
+So this is the town that
+traveler was talking
+about...
+
+#048 dialogue 924D0
+So this is the town that
+traveler was talking
+about...
+
+#049 dialogue 924F4
+Gimme some water...
+Water...
+
+
+#050 dialogue 92518
+Who are you, barging in
+here uninvited?!
+
+
+#051 dialogue 9253C
+Only those who believe
+in me may go on living
+in this town.
+
+#052 dialogue 92560
+Well? Won't you become
+one of my followers,
+too?
+
+#053 dialogue 92584
+
+       I refuse!!
+
+
+#054 dialogue 925A8
+
+       I refuse!!
+
+
+#055 dialogue 925CC
+
+Then prepare yourself!!
+
+
+#056 dialogue 925F0
+Huh?! What have I been
+doing?
+
+
+#057 dialogue 92614
+Please get time moving
+again.
+
+
+#058 dialogue 92638
+
+ Oh my! This won't do.
+
+
+#059 dialogue 9265C
+I've been swept away to
+some strange place...
+
+
+#060 dialogue 92680
+So you made it this far!
+Want the key? Try and
+take it from me!!
+
+#061 dialogue 926A4
+Hooray!! Now we can put
+the town back to normal!
+
+
+#062 dialogue 926C8
+Sorry to break it to ya,
+but you can't have this
+key just yet!
+
+#063 dialogue 926EC
+Yay!! Gotta hurry back
+to town!!
+
+
+#064 dialogue 92710
+I got the key back. Here
+you go.
+
+
+#065 dialogue 92734
+Huhuhu... Why, thank you
+very much.
+
+
+#066 dialogue 92758
+Hahahahaha!!! Did you
+really think that you
+had beaten me?!
+
+#067 dialogue 9277C
+This time, it'll be a
+different story!!
+
+
+#068 dialogue 927A0
+Waah! I'm sorry! Please
+forgive me!
+
+
+#069 dialogue 927C4
+I couldn't stand the
+monotony of winding the
+key day in, day out...
++
+I just had a moment of
+weakness.
+
+
+#070 dialogue 927E8
+I'll never do anything
+like this ever again.
+
+
+#071 dialogue 9280C
+You seem to have learned
+your lesson, so I'll let
+it slide just this once.
+
+#072 dialogue 92830
+All right. Time should
+be back to normal now.
+
+
+#073 dialogue 92854
+Thank you for bringing
+time back.
+
+
+#074 dialogue 92878
+Phew! Now let's head
+back to Grandfather's!
+
+
+#075 dialogue 9289C
+Protect this town's Key
+of Time.
+
+
+#076 dialogue 928C0
+
+    Leave it to me!
+
+
+#077 dialogue 928E4
+
+      Be careful.
+
+
+#078 dialogue 92908
+The bad guys went that
+way!
+
+
+#079 dialogue 9292C
+
+        Hurry!!
+
+
+#080 dialogue 92950
+A suspicious guy went
+down below!
+
+
+#081 dialogue 92974
+It seems time stopped in
+the next town, too...
+How frightening...
+
+#082 dialogue 92998
+I wonder, will this town
+be okay?
+
+
+#083 dialogue 929BC
+Say, have you seen my
+puppy? I wonder where
+he's gone off to...
+
+#084 dialogue 929E0
+After the Key of Time?
+Oh, I know! Down the
+manhole ahead, right?!
+
+#085 dialogue 92A04
+This little one starts
+crying the moment I stop
+rocking like this.
+
+#086 dialogue 92A28
+
+      Goo, goo...
+
+
+#087 dialogue 92A4C
+Welcome! How about this
+one?
+
+
+#088 dialogue 92A70
+What's that you've got
+in your hand? If you're
+selling, I'll buy it.
+
+#089 dialogue 92A94
+Not buying? If you're
+just browsing, then beat
+it!
+
+#090 dialogue 92AB8
+I've been to a lot of
+places, and I gotta say,
+this is a nice town.
+
+#091 dialogue 92ADC
+The last town I went to
+sure was weird... It's
+over the mountain ahead.
+
+#092 dialogue 92B00
+Almost every town's been
+attacked. Counting this
+one, just 2 or 3 remain.
+
+#093 dialogue 92B24
+I hear a town dried up
+when time stopped and
+the water quit flowing.
+
+#094 dialogue 92B48
+So you're the one who
+stopped time!
+
+
+#095 dialogue 92B6C
+So it's your fault time
+has stopped!
+
+
+#096 page 92B90
+This is the mysterious
+wonderland known as Radish Land.
+
+
+#097 page 92BC0
+In every town, a guard kept the
+flow of time running by winding
+a large clock with his key.
+
+#098 page 92BF0
+But then an evil man appeared
+who stole these keys, making the
+flow of time stop.
+
+#099 page 92C20
+One by one, the towns were
+attacked, their time stopped,
+and they suffered greatly.
+
+#100 page 92C50
+An old man, sensing the danger,
+summoned Zac and Mel.
+
+
+#101 page 92C80
+And he entrusted them with the
+magic rods he invented so they
+could defend their own town.
+
