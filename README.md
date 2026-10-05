@@ -44,7 +44,7 @@ To apply the patch, follow the steps below.
 
 ## Release Changelog
 
-- Version 1.0 (2026-XX-XX)
+- Version 1.0 (2026-10-05)
   - Initial release.
 
 ## What's Changed
