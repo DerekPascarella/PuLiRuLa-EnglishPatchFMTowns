@@ -6,7 +6,7 @@ In the storybook kingdom of Radish Land, every town keeps its clocks ticking wit
 
 Originally unleashed on arcades by Taito in 1991 and brought home to the FM Towns by VING in 1994, "Pu-Li-Ru-La" is one of the most delightfully bizarre games ever made. Bop an enemy and it turns back into a fleeing animal. Wander into crystal mountains, dream-warped towns, and scorched deserts. Face down foes that only get stranger with every stage. It's a psychedelic picture book come to life, and now it can finally be enjoyed in English on the FM Towns.
 
-The latest version of this patch is [1.0](xxx).
+The latest version of this patch is [1.0](https://github.com/DerekPascarella/PuLiRuLa-EnglishPatchFMTowns/releases/download/1.0/Pu-Li-Ru-La.English.v1.0.zip).
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ This English translation patch release includes a custom patch-applying kit. It 
 
 To apply the patch, follow the steps below.
 
-1. Extract the [latest release package ZIP](xxx) to any folder of your choosing.
+1. Extract the [latest release package ZIP](https://github.com/DerekPascarella/PuLiRuLa-EnglishPatchFMTowns/releases/download/1.0/Pu-Li-Ru-La.English.v1.0.zip) to any folder of your choosing.
 2. Place the entire Redump disc image in the `redump_original` folder.
 3. Launch the `apply_patch.bat` script and watch for status messages as it applies the patch.
 4. Upon successful completion, patched disc images will reside in the following folders. These disc images are acceptable for burning to CD-R, using with an ODE, or using with an emulator.
